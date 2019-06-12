@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="external/ant-wireless/antradio-library" name="platform_external_ant-wireless_antradio-library" remote="komodo" />
+  <project path="external/ant-wireless/ant_native" name="platform_external_ant-wireless_ant_native" remote="komodo" />
+  <project path="external/ant-wireless/ant_service" name="platform_external_ant-wireless_ant_service" remote="komodo" />
+  <project path="external/exfat" name="platform_external_exfat" remote="komodo" />
+  <project path="external/ntfs-3g" name="platform_external_ntfs-3g" remote="komodo" />
+  <project path="external/libphonenumber" name="platform_external_libphonenumber" remote="komodo" />
+  <project path="external/perfetto" name="platform_external_perfetto" remote="komodo" />
+  <project path="external/selinux" name="platform_external_selinux" remote="komodo" />
+  <project path="external/tinycompress" name="platform_external_tinycompress" remote="komodo" />
+  <project path="external/json-c" name="platform_external_json-c" remote="komodo" />
+  <project path="external/skia" name="platform_external_skia" remote="komodo" />
+  <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" remote="komodo" />
+
+</manifest>

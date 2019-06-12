@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="hardware/qcom/bootctrl" name="platform_hardware_qcom_bootctrl" remote="komodo" />
+  <project path="hardware/qcom/camera" name="platform_hardware_qcom_camera" remote="komodo" />
+  <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="komodo" />
+  <project path="hardware/qcom/power" name="platform_hardware_qcom_power" remote="komodo" />
+  <project path="hardware/qcom/thermal" name="platform_hardware_qcom_thermal" remote="komodo" />
+  <project path="hardware/qcom/vr" name="platform_hardware_qcom_vr" remote="komodo" />
+  <project path="hardware/qcom/audio-caf/msm8996" name="platform_hardware_qcom_audio" groups="qcom,qcom_audio" remote="komodo" revision="pie-caf-8996" />
+  <project path="hardware/qcom/audio-caf/msm8998" name="platform_hardware_qcom_audio" groups="qcom,qcom_audio" remote="komodo" revision="pie-caf-8998" />
+  <project path="hardware/qcom/display-caf/msm8996" name="platform_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="komodo" revision="pie-caf-8996" />
+  <project path="hardware/qcom/display-caf/msm8998" name="platform_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="komodo" revision="pie-caf-8998" />
+  <project path="hardware/qcom/media-caf/msm8996" name="platform_hardware_qcom_media" groups="qcom" remote="komodo" revision="pie-caf-8996" />
+  <project path="hardware/qcom/media-caf/msm8998" name="platform_hardware_qcom_media" groups="qcom" remote="komodo" revision="pie-caf-8998" />
+  <project path="hardware/qcom/bt" name="platform_hardware_qcom_bt" remote="komodo" />
+  <project path="hardware/qcom/bt-caf" name="platform_hardware_qcom_bt" remote="komodo" revision="pie-caf" />
+  <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" remote="komodo" />
+  <project path="hardware/qcom/wlan" name="platform_hardware_qcom_wlan" remote="komodo" />
+  <project path="hardware/qcom/wlan-caf" name="platform_hardware_qcom_wlan" remote="komodo" revision="pie-caf" />
+  <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="komodo" />
+  <project path="hardware/komodo/interfaces" name="platform_hardware_komodo_interfaces" remote="komodo" />
+  <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="komodo" />
+  <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="komodo" />
+  <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc" remote="komodo" />
+  <project path="hardware/ril" name="platform_hardware_ril" remote="komodo" />
+  <project path="hardware/ril-caf" name="platform_hardware_ril" remote="komodo" revision="pie-caf" /> 
+
+  <!-- Hardware repos -->
+  <project path="hardware/lineage/livedisplay" name="android_hardware_lineage_livedisplay" remote="lineage" />  
+
+  </manifest>

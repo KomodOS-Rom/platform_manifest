@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/qcom/sepolicy" name="platform_device_qcom_sepolicy" remote="komodo" />
+  <project path="device/komodo/sepolicy" name="platform_device_komodo_sepolicy" remote="komodo" />
+
+</manifest>

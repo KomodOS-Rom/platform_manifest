@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- BeastROMs remote -->
+  <remote name="komodo"
+          fetch="https://github.com/KomodOS-Rom"
+          revision="refs/heads/pie"
+          sync-j="8" />
+
+  <remote name="github"
+          fetch="https://github.com/" />
+		   
+  <!-- Removed projects -->	   
+  <include name="remove.xml" />
+
+  <!-- Imported projects -->
+  <include name="komodo/build.xml" />
+  <include name="komodo/devices.xml" />
+  <include name="komodo/external.xml" />
+  <include name="komodo/frameworks.xml" />
+  <include name="komodo/hals.xml" />
+  <include name="komodo/packages.xml" />
+  <include name="komodo/prebuilts.xml" />
+  <include name="komodo/system.xml" />
+  <include name="komodo/vendors.xml" />
+
+</manifest>
