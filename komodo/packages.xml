@@ -7,7 +7,7 @@
     <project path="packages/apps/Dialer" name="platform_packages_apps_Dialer" remote="komodo" />
     <project path="packages/apps/DocumentsUI" name="platform_packages_apps_DocumentsUI" remote="komodo" />
     <project path="packages/apps/FMRadio" name="platform_packages_apps_FMRadio" remote="komodo" />
-    <project path="packages/apps/Launcher3" name="platform_packages_apps_Launcher3" remote="komodo" />
+    <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="komodo" />
     <project path="packages/apps/PackageInstaller" name="platform_packages_apps_PackageInstaller" remote="komodo" />
     <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="komodo" />
     <project path="packages/apps/SmartNav" name="platform_packages_apps_SmartNav" remote="komodo" />
