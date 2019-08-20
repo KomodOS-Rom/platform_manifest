@@ -8,7 +8,6 @@
     <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="komodo" />
     <project path="vendor/qcom/opensource/audio" name="platform_vendor_qcom_opensource_audio" remote="komodo" />
     <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="komodo" />
-    <project path="vendor/interfaces" name="platform_vendor_interfaces" remote="komodo" />
 	
     <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_interfaces_opensource_nfc" remote="lineage" />
     <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="android_vendor_nxp_opensource_external_libnfc-nci" remote="lineage" />
